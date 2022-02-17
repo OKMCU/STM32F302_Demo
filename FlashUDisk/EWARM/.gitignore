@@ -1,0 +1,7 @@
+settings
+*.dep
+*.out
+*.ewt
+FlashUDisk/List
+FlashUDisk/Obj
+FlashUDisk/Exe

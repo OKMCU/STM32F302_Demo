@@ -1,0 +1,7 @@
+settings
+*.dep
+*.out
+*.ewt
+RamUDisk/List
+RamUDisk/Obj
+RamUDisk/Exe
