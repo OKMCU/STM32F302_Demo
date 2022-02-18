@@ -67,9 +67,9 @@
 #define USBD_LANGID_STRING     1033
 #define USBD_MANUFACTURER_STRING     "CloudLight"
 #define USBD_PID_FS     22336
-#define USBD_PRODUCT_STRING_FS     "CL Virtual ComPort"
-#define USBD_CONFIGURATION_STRING_FS     "CL Config"
-#define USBD_INTERFACE_STRING_FS     "CL Interface"
+#define USBD_PRODUCT_STRING_FS     "CL-Link Virtual ComPort"
+#define USBD_CONFIGURATION_STRING_FS     "CL-Link Config"
+#define USBD_INTERFACE_STRING_FS     "CL-Link Interface"
 
 /* USER CODE BEGIN PRIVATE_DEFINES */
 
